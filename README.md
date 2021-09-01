@@ -1,1 +1,1 @@
-# minepur
+PUBLIC KA MINER LOL

